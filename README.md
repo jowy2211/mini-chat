@@ -1,2 +1,2 @@
-# miny-chat
+# mini-chat
 Fitur chatting menggunakan ajax
